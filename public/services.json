@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1, "name": "Engine Dignostic", "price": "2000", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi deserunt quos eligendi inventore neque sed similique, assumenda, magnam debitis ab corporis itaque voluptate saepe repellat incidunt officiis a quae ducimus", "img": "https://i.ibb.co/BtypHRD/1.jpg"
+    },
+    
+    {
+        "id": 2, "name": "Wheel Alignment", "price": "1800", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi deserunt quos eligendi inventore neque sed similique, assumenda, magnam debitis ab corporis itaque voluptate saepe repellat incidunt officiis a quae ducimus", "img": "https://i.ibb.co/37gKBx5/5.jpg"
+    },
+
+    {
+        "id": 3, "name": "Cutter Enginer", "price": "2200", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi deserunt quos eligendi inventore neque sed similique, assumenda, magnam debitis ab corporis itaque voluptate saepe repellat incidunt officiis a quae ducimus", "img": "https://i.ibb.co/XJMNW8Q/4.jpg"
+    },
+    {
+        "id": 4, "name": "Operetor Machine", "price": "1500", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi deserunt quos eligendi inventore neque sed similique, assumenda, magnam debitis ab corporis itaque voluptate saepe repellat incidunt officiis a quae ducimus", "img": "https://i.ibb.co/RB9vYtc/3.jpg"
+    },
+    {
+        "id": 5, "name": "Cheap Engineer", "price": "1900", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi deserunt quos eligendi inventore neque sed similique, assumenda, magnam debitis ab corporis itaque voluptate saepe repellat incidunt officiis a quae ducimus", "img": "https://i.ibb.co/GCZcH8G/2.jpg"
+    },
+    {
+        "id": 6, "name": "Mechanic Stuff", "price": "1200", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi deserunt quos eligendi inventore neque sed similique, assumenda, magnam debitis ab corporis itaque voluptate saepe repellat incidunt officiis a quae ducimus", "img": "https://i.ibb.co/LxBn8Gh/6.jpg"
+    }
+
+]
